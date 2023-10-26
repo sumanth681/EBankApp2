@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="EBank2TestSuite">
+    <test name="Login Test">
+        <classes>
+            <class name="LoginPageTest" />
+        </classes>
+    </test>
+    <test name="Home Page Test">
+        <classes>
+            <class name="HomePageTest" />
+        </classes>
+    </test>
+</suite>
