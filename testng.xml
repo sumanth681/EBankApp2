@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="EBank2TestSuite">
+<suite name="EBank2TestSuite" parallel="instances" thread-count="2">
     <test name="Login Test">
         <classes>
             <class name="LoginPageTest" />

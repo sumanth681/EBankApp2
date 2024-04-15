@@ -2,96 +2,96 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-24T10:52:10 IST" name="EBank2TestSuite" finished-at="2023-10-24T10:52:59 IST" duration-ms="48532">
+  <suite started-at="2023-10-31T21:12:48 IST" name="EBank2TestSuite" finished-at="2023-10-31T21:13:37 IST" duration-ms="48739">
     <groups>
     </groups>
-    <test started-at="2023-10-24T10:52:10 IST" name="Login Test" finished-at="2023-10-24T10:52:45 IST" duration-ms="35371">
+    <test started-at="2023-10-31T21:12:48 IST" name="Login Test" finished-at="2023-10-31T21:13:23 IST" duration-ms="34990">
       <class name="LoginPageTest">
-        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:10 IST" name="setFirst" finished-at="2023-10-24T10:52:23 IST" duration-ms="12434" status="PASS">
+        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:12:48 IST" name="setFirst" finished-at="2023-10-31T21:13:00 IST" duration-ms="12065" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setFirst -->
-        <test-method signature="testLoginWithEmptyInputs()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:23 IST" name="testLoginWithEmptyInputs" finished-at="2023-10-24T10:52:24 IST" duration-ms="1036" status="PASS">
+        <test-method signature="testLoginWithEmptyInputs()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:00 IST" name="testLoginWithEmptyInputs" finished-at="2023-10-31T21:13:02 IST" duration-ms="1350" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginWithEmptyInputs -->
-        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:24 IST" name="setLast" finished-at="2023-10-24T10:52:24 IST" duration-ms="405" status="PASS">
+        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:02 IST" name="setLast" finished-at="2023-10-31T21:13:02 IST" duration-ms="597" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setLast -->
-        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:24 IST" name="setFirst" finished-at="2023-10-24T10:52:28 IST" duration-ms="4291" status="PASS">
+        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:02 IST" name="setFirst" finished-at="2023-10-31T21:13:07 IST" duration-ms="4224" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setFirst -->
-        <test-method signature="testLoginWithEmptyUserId()[pri:1, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:28 IST" name="testLoginWithEmptyUserId" finished-at="2023-10-24T10:52:29 IST" duration-ms="855" status="PASS">
+        <test-method signature="testLoginWithEmptyUserId()[pri:1, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:07 IST" name="testLoginWithEmptyUserId" finished-at="2023-10-31T21:13:08 IST" duration-ms="1154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginWithEmptyUserId -->
-        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:29 IST" name="setLast" finished-at="2023-10-24T10:52:29 IST" duration-ms="235" status="PASS">
+        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:08 IST" name="setLast" finished-at="2023-10-31T21:13:08 IST" duration-ms="186" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setLast -->
-        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:29 IST" name="setFirst" finished-at="2023-10-24T10:52:33 IST" duration-ms="4086" status="PASS">
+        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:08 IST" name="setFirst" finished-at="2023-10-31T21:13:12 IST" duration-ms="3896" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setFirst -->
-        <test-method signature="testLoginWithEmptyPin()[pri:2, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:33 IST" name="testLoginWithEmptyPin" finished-at="2023-10-24T10:52:34 IST" duration-ms="885" status="PASS">
+        <test-method signature="testLoginWithEmptyPin()[pri:2, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:12 IST" name="testLoginWithEmptyPin" finished-at="2023-10-31T21:13:13 IST" duration-ms="867" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginWithEmptyPin -->
-        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:34 IST" name="setLast" finished-at="2023-10-24T10:52:35 IST" duration-ms="286" status="PASS">
+        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:13 IST" name="setLast" finished-at="2023-10-31T21:13:13 IST" duration-ms="458" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setLast -->
-        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:35 IST" name="setFirst" finished-at="2023-10-24T10:52:39 IST" duration-ms="4268" status="PASS">
+        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:13 IST" name="setFirst" finished-at="2023-10-31T21:13:17 IST" duration-ms="3875" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setFirst -->
-        <test-method signature="testLoginWithInvalidCreds()[pri:3, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:39 IST" name="testLoginWithInvalidCreds" finished-at="2023-10-24T10:52:40 IST" duration-ms="946" status="PASS">
+        <test-method signature="testLoginWithInvalidCreds()[pri:3, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:17 IST" name="testLoginWithInvalidCreds" finished-at="2023-10-31T21:13:18 IST" duration-ms="1047" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginWithInvalidCreds -->
-        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:40 IST" name="setLast" finished-at="2023-10-24T10:52:40 IST" duration-ms="268" status="PASS">
+        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:18 IST" name="setLast" finished-at="2023-10-31T21:13:18 IST" duration-ms="257" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setLast -->
-        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:40 IST" name="setFirst" finished-at="2023-10-24T10:52:44 IST" duration-ms="4175" status="PASS">
+        <test-method is-config="true" signature="setFirst()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:18 IST" name="setFirst" finished-at="2023-10-31T21:13:22 IST" duration-ms="3637" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setFirst -->
-        <test-method signature="testLoginWithValidCreds()[pri:4, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:44 IST" name="testLoginWithValidCreds" finished-at="2023-10-24T10:52:45 IST" duration-ms="890" status="PASS">
+        <test-method signature="testLoginWithValidCreds()[pri:4, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:22 IST" name="testLoginWithValidCreds" finished-at="2023-10-31T21:13:23 IST" duration-ms="987" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginWithValidCreds -->
-        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7748410a]" started-at="2023-10-24T10:52:45 IST" name="setLast" finished-at="2023-10-24T10:52:45 IST" duration-ms="176" status="PASS">
+        <test-method is-config="true" signature="setLast()[pri:0, instance:LoginPageTest@7b02881e]" started-at="2023-10-31T21:13:23 IST" name="setLast" finished-at="2023-10-31T21:13:23 IST" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setLast -->
       </class> <!-- LoginPageTest -->
     </test> <!-- Login Test -->
-    <test started-at="2023-10-24T10:52:46 IST" name="Home Page Test" finished-at="2023-10-24T10:52:59 IST" duration-ms="13013">
+    <test started-at="2023-10-31T21:13:23 IST" name="Home Page Test" finished-at="2023-10-31T21:13:37 IST" duration-ms="13546">
       <class name="HomePageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:HomePageTest@2accdbb5]" started-at="2023-10-24T10:52:46 IST" name="setup" finished-at="2023-10-24T10:52:51 IST" duration-ms="5863" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HomePageTest@65f095f8]" started-at="2023-10-31T21:13:23 IST" name="setup" finished-at="2023-10-31T21:13:29 IST" duration-ms="5372" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testHomepageHeading()[pri:1, instance:HomePageTest@2accdbb5]" started-at="2023-10-24T10:52:51 IST" name="testHomepageHeading" finished-at="2023-10-24T10:52:52 IST" duration-ms="1084" status="PASS">
+        <test-method signature="testHomepageHeading()[pri:1, instance:HomePageTest@65f095f8]" started-at="2023-10-31T21:13:29 IST" name="testHomepageHeading" finished-at="2023-10-31T21:13:30 IST" duration-ms="992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHomepageHeading -->
-        <test-method is-config="true" signature="setdown()[pri:0, instance:HomePageTest@2accdbb5]" started-at="2023-10-24T10:52:52 IST" name="setdown" finished-at="2023-10-24T10:52:53 IST" duration-ms="330" status="PASS">
+        <test-method is-config="true" signature="setdown()[pri:0, instance:HomePageTest@65f095f8]" started-at="2023-10-31T21:13:30 IST" name="setdown" finished-at="2023-10-31T21:13:30 IST" duration-ms="181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setdown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:HomePageTest@2accdbb5]" started-at="2023-10-24T10:52:53 IST" name="setup" finished-at="2023-10-24T10:52:57 IST" duration-ms="4281" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:HomePageTest@65f095f8]" started-at="2023-10-31T21:13:30 IST" name="setup" finished-at="2023-10-31T21:13:36 IST" duration-ms="5672" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLogoutFunctionality()[pri:2, instance:HomePageTest@2accdbb5]" started-at="2023-10-24T10:52:57 IST" name="testLogoutFunctionality" finished-at="2023-10-24T10:52:58 IST" duration-ms="1100" status="PASS">
+        <test-method signature="testLogoutFunctionality()[pri:2, instance:HomePageTest@65f095f8]" started-at="2023-10-31T21:13:36 IST" name="testLogoutFunctionality" finished-at="2023-10-31T21:13:37 IST" duration-ms="1035" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogoutFunctionality -->
-        <test-method is-config="true" signature="setdown()[pri:0, instance:HomePageTest@2accdbb5]" started-at="2023-10-24T10:52:58 IST" name="setdown" finished-at="2023-10-24T10:52:59 IST" duration-ms="337" status="PASS">
+        <test-method is-config="true" signature="setdown()[pri:0, instance:HomePageTest@65f095f8]" started-at="2023-10-31T21:13:37 IST" name="setdown" finished-at="2023-10-31T21:13:37 IST" duration-ms="289" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setdown -->
